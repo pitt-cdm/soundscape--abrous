@@ -40,3 +40,6 @@ At each stage, unless otherwise specified, upload (push) your materials to your 
 2. Because sound files can take up a lot of space, we'll be using [Git Large File Storage](https://git-lfs.github.com/), an add-on service that lets you designate certain file extensions as worth tracking and storing off-site, rather than directly in your repository.
    * I've already set up this folder to track .wav, .mp3, and .ogg files this way, but you'll need to install the LFS service to make it work.
    * Simply go to that URL, download, enter the command in step 1, and you're on your way: I've done step 2 for this repo, and there is no step 3!
+
+
+My soundscape will initially feature a foreshadowing sound of an injury during an indoor soccer tornament. It then goes to the game where two goals were scored and then the injury occued. The game was finished and ended 2-0. Audio clips will be added to say "earlier at the tournament" and other transitions as necessary. 
