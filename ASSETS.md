@@ -3,3 +3,7 @@ Need 2: Actor/Actress Solution 2: ask friend to help
 Need 3: Release form for actor/actress Solution 3: print a copy before filming
 Need 4: Video Camera Solution 4: I will use my phone/DSLR camera 
 Need 5: Video editing program for chromebook Solution 5: I will try my hardest to use my own chromebook (even if that means downloading something crazy)
+
+
+All of my recordings were done at an indoor soccer tournament. Any other file was recieved from the website found on our class site under resources: https://freesound.org/
+After recording audio files for the transtions a signed agreement will be added 
