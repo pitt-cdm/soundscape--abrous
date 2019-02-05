@@ -1,3 +1,8 @@
+My soundscape will initially feature a foreshadowing sound of an injury during an indoor soccer tornament. It then goes to the game where two goals were scored and then the injury occuring. The game was finished and ended 2-0. DISCLAIMER: sounds of bones breaking are included twice during this game - listen with discretion 
+
+
+
+Prompt:
 # Project 1: Soundscape Narrative
 
 Your task in this unit is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
@@ -42,4 +47,4 @@ At each stage, unless otherwise specified, upload (push) your materials to your 
    * Simply go to that URL, download, enter the command in step 1, and you're on your way: I've done step 2 for this repo, and there is no step 3!
 
 
-My soundscape will initially feature a foreshadowing sound of an injury during an indoor soccer tornament. It then goes to the game where two goals were scored and then the injury occued. The game was finished and ended 2-0. Audio clips will be added to say "earlier at the tournament" and other transitions as necessary. 
+
